@@ -1,4 +1,4 @@
 from selenium import webdriver
 
-browser = webdriver.Firefox()  # Initialize webdriver
-browser.get('http://www.google.com')  # .get is used to load an URL
+firefox = webdriver.Firefox()  # Initialize webdriver
+firefox.get('http://www.google.com')  # .get is used to load an URL
