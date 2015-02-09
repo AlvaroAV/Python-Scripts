@@ -10,5 +10,7 @@
 
 1. Start Selenium browser with Chrome
 2. Start Selenium browser with Firefox
-3. Use proxy with Selenium
+3. Use proxy with Chrome
+4. Use proxy with Firefox
 
+Visit [Source Page](https://bitbucket.org/AlvaroAV/python-scripts/src) to see the example files.
