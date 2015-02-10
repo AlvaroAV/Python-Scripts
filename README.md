@@ -13,4 +13,4 @@
 3. Use proxy with Chrome
 4. Use proxy with Firefox
 
-Visit [Source Page](https://bitbucket.org/AlvaroAV/python-scripts/src) to see the example files.
+Visit [Source Page](https://bitbucket.org/AlvaroAV/python-scripts/src/Selenium) to see the example files.
