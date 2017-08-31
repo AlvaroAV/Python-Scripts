@@ -13,6 +13,7 @@
 3. Use proxy with Chrome *([03_selenium_proxy_chrome.py](Selenium/03_selenium_proxy_chrome.py))*
 4. Use proxy with Firefox *([04_selenium_proxy_chrome.py](Selenium/04_selenium_proxy_chrome.py))*
 5. How to manage browser tabs *([05_selenium_manage_tabs.py](Selenium/05_selenium_manage_tabs.py))*
+6. How to download image using Selenium *([06_selenium_download_image_from_browser.py](Selenium/06_selenium_download_image_from_browser.py))*
 
 # Urllib Examples
 
