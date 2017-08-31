@@ -8,7 +8,7 @@
 
 # Selenium Examples
 
-1. Start Selenium browser with Chrome
+1. Start Selenium browser with Chrome *([01_selenium_chrome.py](Selenium/01_selenium_chrome.py))*
 2. Start Selenium browser with Firefox
 3. Use proxy with Chrome
 4. Use proxy with Firefox
