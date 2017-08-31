@@ -12,6 +12,7 @@
 2. Start Firefox with Selenium *([02_selenium_firefox.py](Selenium/02_selenium_firefox.py))*
 3. Use proxy with Chrome *([03_selenium_proxy_chrome.py](Selenium/03_selenium_proxy_chrome.py))*
 4. Use proxy with Firefox *([04_selenium_proxy_chrome.py](Selenium/04_selenium_proxy_chrome.py))*
+5. Use proxy with Firefox *([05_selenium_manage_tabs.py](Selenium/05_selenium_manage_tabs.py))*
 
 # Urllib Examples
 
