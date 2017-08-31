@@ -8,10 +8,10 @@
 
 # Selenium Examples
 
-1. Start Selenium browser with Chrome *([01_selenium_chrome.py](Selenium/01_selenium_chrome.py))*
-2. Start Selenium browser with Firefox
-3. Use proxy with Chrome
-4. Use proxy with Firefox
+1. Start Chrome with Selenium *([01_selenium_chrome.py](Selenium/01_selenium_chrome.py))*
+2. Start Firefox with Selenium *([02_selenium_firefox.py](Selenium/02_selenium_firefox.py))*
+3. Use proxy with Chrome *([03_selenium_proxy_chrome.py](Selenium/03_selenium_proxy_chrome.py))*
+4. Use proxy with Firefox *([04_selenium_proxy_chrome.py](Selenium/04_selenium_proxy_chrome.py))*
 
 # Urllib Examples
 
