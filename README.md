@@ -21,5 +21,5 @@
 
 # Captcha solver
 
-1. Example to solve captcha image using pytesseract
-1. Example to solve captcha image url using pytesseract
+1. Example to solve captcha image & captcha image url using pytesseract *([captcha_solver.py])[captcha_solver.py]
+
