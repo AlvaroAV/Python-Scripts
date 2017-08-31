@@ -18,3 +18,8 @@
 1. Get HTML source code from URL using urllib2 
 2. Add headers to urllib2 and test it 
 3. Example using Web IP Camera to generate video with urllib 
+
+# Captcha solver
+
+1. Example to solve captcha image using pytesseract
+1. Example to solve captcha image url using pytesseract
